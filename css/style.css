@@ -1,0 +1,23 @@
+h1{
+    color: crimson;
+}
+.heading2{
+    color: coral;
+    border: 5px solid blueviolet;
+    padding: 5px;
+    margin: 5px;
+}
+
+#paragraph{
+    color: rgb(107, 114, 46);
+}
+.copy{
+    font-size: 25px;
+}
+.table{
+    width: 50%;
+    border: 1px solid black;
+}
+.table > table{
+    width: 100%;
+}
